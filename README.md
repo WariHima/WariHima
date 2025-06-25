@@ -3,6 +3,8 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 また、￥500で寄付することも可能です。
 
 普段はdiscord サーバー[AI声づくり技術研究会](https://discord.gg/CU96Jd5Hau)か[ローカルllmに向き合う会](https://discord.gg/whhVuP8EM7)にいます。
+
+[amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/2RJFFCYR0IVXU?ref_=wl_share)
 <!---
 WariHima/WariHima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
