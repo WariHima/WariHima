@@ -16,6 +16,7 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 
 
 ## リンク
+[huggingface](https://huggingface.co/WariHima)  
 [zenn](https://zenn.dev/warihima)  
 [laplas score](https://lapras.com/person)  
 [AtCoder](https://atcoder.jp/users/WariHima)  
