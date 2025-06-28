@@ -1,4 +1,3 @@
-.github/workflows/lapras-card.yml
 name: LAPRAS Card
 
 on:
