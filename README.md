@@ -8,11 +8,6 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 -----
 ![自画像](https://github.com/WariHima/WariHima/blob/main/github%20banner.png)
 
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ZL3BWOR" target="_blank" rel="noopener noreferrer"><img alt="ZL3BWORのLAPRASでのスコアは次の通りです: エンジニアリング: 3.17 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.67 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.17&b=2.85&i=2.67&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 6/28/2025, 3:59:55 AM</p>
-<!--END_SECTION:lapras-card-->
-
 ## 寄付
 [boothでVoiceSpeechMaker-GUIが無料でダウンロードできます](https://warihima-soft.booth.pm/items/7090520)  
 また、￥500で寄付することも可能です。
@@ -27,6 +22,15 @@ Last Updated on 6/28/2025, 3:59:55 AM</p>
 [laplas score](https://lapras.com/person)  
 [AtCoder](https://atcoder.jp/users/WariHima)  
 [booth](https://warihima-soft.booth.pm/)
+
+-----
+
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/ZL3BWOR" target="_blank" rel="noopener noreferrer"><img alt="ZL3BWORのLAPRASでのスコアは次の通りです: エンジニアリング: 3.17 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.67 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.17&b=2.85&i=2.67&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 6/28/2025, 3:59:55 AM</p>
+<!--END_SECTION:lapras-card-->
+
+
 <!---
 WariHima/WariHima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
