@@ -8,6 +8,9 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 -----
 ![自画像](https://github.com/WariHima/WariHima/blob/main/github%20banner.png)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ## 寄付
 [boothでVoiceSpeechMaker-GUIが無料でダウンロードできます](https://warihima-soft.booth.pm/items/7090520)  
 また、￥500で寄付することも可能です。
