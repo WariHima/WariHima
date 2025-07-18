@@ -26,8 +26,8 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 -----
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ZL3BWOR" target="_blank" rel="noopener noreferrer"><img alt="ZL3BWORのLAPRASでのスコアは次の通りです: エンジニアリング: 3.19 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.78 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.19&b=2.85&i=2.78&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 7/17/2025, 2:23:05 AM</p>
+<p ><a href="https://lapras.com/public/ZL3BWOR" target="_blank" rel="noopener noreferrer"><img alt="ZL3BWORのLAPRASでのスコアは次の通りです: エンジニアリング: 3.2 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.78 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.2&b=2.85&i=2.78&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 7/18/2025, 2:24:28 AM</p>
 <!--END_SECTION:lapras-card-->
 
 
