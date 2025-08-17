@@ -8,15 +8,11 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 -----
 ![自画像](https://github.com/WariHima/WariHima/blob/main/github%20banner.png)
 
-## 寄付
-[boothでVoiceSpeechMaker-GUIが無料でダウンロードできます](https://warihima-soft.booth.pm/items/7090520)  
-また、￥500で寄付することも可能です。
-
+## support
 [amazon欲しいものリスト (趣味)](https://www.amazon.jp/hz/wishlist/ls/2RJFFCYR0IVXU?ref_=wl_share)  
-[作業pcのスペックと欲しいものリスト](https://warihima.blogspot.com/p/blog-page.html)
 
 
-## リンク
+## link
 [huggingface](https://huggingface.co/WariHima)  
 [zenn](https://zenn.dev/warihima)  
 [note](https://note.com/kyukatei_hima)
