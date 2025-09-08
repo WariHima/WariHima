@@ -11,12 +11,15 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 
 <!--huggingface-->
 <a href="https://huggingface.co/WariHima">
-  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=huggingface">
+  <img src="https://img.shields.io/badge/-huggingface-5674bc.svg?logo=huggingface">
+</a>
+<!--zenn-->
+<a href="https://zenn.dev/warihima">
+  <img src="https://img.shields.io/badge/-zenn-5674bc.svg?logo=zenn">
 </a>
 
-[zenn](https://zenn.dev/warihima)  
+
 [note](https://note.com/kyukatei_hima)
-[laplas score](https://lapras.com/person)  
 [booth](https://warihima-soft.booth.pm/)
 
 -----
