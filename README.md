@@ -8,7 +8,12 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 -----
 ![自画像](https://github.com/WariHima/WariHima/blob/main/github%20banner.png)
 ## link
-[huggingface](https://huggingface.co/WariHima)  
+
+<!--huggingface-->
+<a href="https://huggingface.co/WariHima">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=huggingface">
+</a>
+
 [zenn](https://zenn.dev/warihima)  
 [note](https://note.com/kyukatei_hima)
 [laplas score](https://lapras.com/person)  
