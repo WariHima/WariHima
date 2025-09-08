@@ -1,9 +1,8 @@
 
------
+
 
 oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeechMakerの作者です。  
 
-## link
 
 <!--huggingface-->
 <a href="https://huggingface.co/WariHima">
@@ -18,6 +17,8 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
   <img src="https://img.shields.io/badge/-note-5674bc.svg?logo=note">
 </a>
 
+<br>
+
 [booth](https://warihima-soft.booth.pm/)
 
 <br>
@@ -31,7 +32,7 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
   <img src="https://img.shields.io/badge/-ローカルllmに向き合う会-5674bc.svg?logo=discord">
 </a>
 
-
+---
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/ZL3BWOR" target="_blank" rel="noopener noreferrer"><img alt="ZL3BWORのLAPRASでのスコアは次の通りです: エンジニアリング: 3.22 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.78 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.22&b=2.85&i=2.78&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
@@ -43,5 +44,7 @@ Last Updated on 9/8/2025, 2:01:58 AM</p>
 WariHima/WariHima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
 
 ![自画像](https://github.com/WariHima/WariHima/blob/main/github%20banner.png)
