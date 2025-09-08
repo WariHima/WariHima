@@ -16,10 +16,13 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 <a href="https://note.com/kyukatei_hima">
   <img src="https://img.shields.io/badge/-note-5674bc.svg?logo=note">
 </a>
+<!--booth-->
+<a href="https://warihima-soft.booth.pm/">
+  <img src="https://img.shields.io/badge/-booth-5674bc.svg?">
+</a>
 
 <br>
 
-[booth](https://warihima-soft.booth.pm/)
 
 <br>
 普段はここにいます。
