@@ -17,6 +17,7 @@ oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeech
 <a href="https://note.com/kyukatei_hima">
   <img src="https://img.shields.io/badge/-note-5674bc.svg?logo=note">
 </a>
+
 [booth](https://warihima-soft.booth.pm/)
 
 <br>
