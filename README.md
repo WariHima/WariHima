@@ -1,9 +1,6 @@
 
 
 
-oss世界最大規模の日本語語彙を持つ音声合成ソフトVoiceSpeechMakerの作者です。  
-
-
 <!--huggingface-->
 <a href="https://huggingface.co/WariHima">
   <img src="https://img.shields.io/badge/-huggingface-5674bc.svg?logo=huggingface">
